@@ -2,7 +2,7 @@
 date: '2021-07-08'
 title: 'Airplane ticket deal finder'
 github: 'https://github.com/tommynov1000/Flight-Deal-Finder'
-external: ''
+external: 'https://github.com/tommynov1000/Flight-Deal-Finder'
 tech:
   - Python
   - RESTful API (Tequila)
