@@ -135,21 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Thomas and I love creating new and interesting things that make life simpler reliably.
-              My interest in reliability started when I was 13 and had enough of how often my laptop was disconnecting
-              from the internet — turns out trying to understand how and why this could happen taught me a lot
-              about networking and monitoring!
+              Hello! My name is Thomas and I love creating new and interesting things that make life simpler.
+              My interest in automation and reliability started when I was 13 and was devastated when my laptop kept
+              breaking. Eventually, I learned how others can have that same experience,
+              so I dedicated myself towards becoming an expert in reliable automation.
             </p>
 
             <p>
-              Fast-forward to today, and I've taken that same desire to build and design a tunable temperature
-              controller reliable systems during my tenure at {' '}
-              <a href='https://vt.edu/'> Virginia tech </a>
-              . For the past two years, I've been working with an {' '}
+              Fast-forward to today, and I've taken that same passion and devotion to build and design a tunable temperature
+              controller reliable systems during my tenure at {' '}<a href='https://vt.edu/'> Virginia Tech </a>. In
+               addition, for the past two years, I've been working with an {' '}
               <a href='https://www.wipro.com/'> IT consulting company </a>,
               where I became the go-to SME for several applications, playing a huge part in incident response,
-              on-call rotations, application reliability, and team workflows.
-              I'm a huge believer in building and maintaining well-documented tech that serves real users.
+              on-call rotations, application reliability, and team workflows. As a result, I'm a huge believer in
+              building and maintaining well-documented and well-performing tech that serves real users and exceeds
+              business expectations.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

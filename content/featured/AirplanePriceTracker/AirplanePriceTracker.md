@@ -1,6 +1,7 @@
 ---
-date: '2021-07-08'
+date: '2021-07-15'
 title: 'Airplane ticket deal finder'
+cover: 'demo.png'
 github: 'https://github.com/tommynov1000/Flight-Deal-Finder'
 external: 'https://github.com/tommynov1000/Flight-Deal-Finder'
 tech:
