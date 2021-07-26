@@ -3,7 +3,7 @@ date: '2019-07-24'
 title: 'Lead IT Project Engineer'
 company: 'Wipro'
 range: 'July 2019 - Current'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.wipro.com/'
 ---
 
 - Led 3 application support teams as the SME, comprising 2 senior and 6 junior project engineers.
