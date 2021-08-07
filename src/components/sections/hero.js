@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a software developer specializing in automating and building monitoring tools.
-      Currently, I'm focused on building tools meant to monitor reliability for an application responsible for
+      Currently, I'm focused on building tools meant to monitor reliability for an application responsible for&nbsp;
       <a href="https://www.ngcsoftware.com/" target="_blank" rel="noreferrer">
         sourcing product
       </a>
