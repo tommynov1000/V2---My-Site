@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Thomas Taylor',
     description:
-      'Thomas Taylor is a SRE who specializes in automation and reliability.',
+      'Thomas Taylor is a application Software Developer who specializes in automation and reliability.',
     siteUrl: 'https://thomastaylor.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
