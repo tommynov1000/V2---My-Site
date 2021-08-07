@@ -1,4 +1,4 @@
-Original credit for website designa and concepts go back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Original credit for website design and concepts go back to [brittanychiang.com](https://brittanychiang.com). Thanks!
 
 ## 🎨 Color Reference
 
