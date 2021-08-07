@@ -60,12 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Thomas Taylor.</h2>;
-  const three = <h3 className="big-heading">I like to automate simple tasks for reliability.</h3>;
+  const three = <h3 className="big-heading">I like to develop tools to automate testing and reliability.</h3>;
   const four = (
     <p>
-      I'm a systems reliability engineer specializing in automating and building monitoring tools.
-      Currently, I'm focused on automating performance monitoring tools for an application responsible for
-      <a href="https://odsourcing.vfc.com/" target="_blank" rel="noreferrer">
+      I'm a software developer specializing in automating and building monitoring tools.
+      Currently, I'm focused on building tools meant to monitor reliability for an application responsible for
+      <a href="https://www.ngcsoftware.com/" target="_blank" rel="noreferrer">
         sourcing product
       </a>
        .
